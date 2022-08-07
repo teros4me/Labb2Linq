@@ -9,7 +9,7 @@ namespace Labb2Linq
         {
             Context context = new Context();
 
-            // Menyalternati
+            // Menyalternativ
 
             Console.WriteLine("Välkommen! Välj en siffra i menyn:\n" +
                 "1 - Visa alla lärare som undervisar i programmering 1\n" +
